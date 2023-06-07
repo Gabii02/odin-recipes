@@ -1,0 +1,19 @@
+body {
+
+    background-color: rgb(219, 226, 176);
+}
+
+h1 {
+text-align: center;
+font-size: 30px;
+}
+
+.images {
+    height: 200px ;
+    width: auto;
+}
+
+.meals {
+font-size: 20px;
+
+}
