@@ -6,6 +6,13 @@ body {
 h1 {
 text-align: center;
 font-size: 30px;
+background-color: beige;
+color: firebrick;
+}
+
+#main{
+font-size: 40px;
+
 }
 
 .images {
@@ -14,6 +21,38 @@ font-size: 30px;
 }
 
 .meals {
-font-size: 20px;
+font-size: 30px;
+background-color: rgba(212, 211, 115, 0.473);
+}
+
+.description {
+background-color: blanchedalmond;
 
 }
+
+.ingrd {
+
+    background-color: azure;
+}
+
+#steps {
+background-color: deepskyblue;
+font-size: 25px;
+}
+
+.fontsize {
+
+font-size: 18px;
+
+}
+
+.enjoy {
+background-color: black;
+color: snow;
+font-size: 20px;
+}
+
+ .back {
+    font-size: 25px;
+    color: red;
+ }
